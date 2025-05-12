@@ -65,9 +65,3 @@ En el siguiente PDF se consolida la información anteriormente citada, con el pa
  	<li id="footnote-3">Van der Hoven, N. [NicolevanderHoeven]. (2022, Enero 12). How to Set Goals in Obsidian for 2022 [Video]. Youtube. <a href="http://www.youtube.com/watch?v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven" target="_blank" rel="noopener">http://www.youtube.com/watch?v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven</a>
 <a title="return to text" href="#footnote-3-ref">↩</a></li>
 </ol>
-# 
-
-```dataview
-TABLE
-FROM #MDT 
-```
