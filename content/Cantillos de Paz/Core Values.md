@@ -5,6 +5,12 @@ draft: false
 tags:
   - MDT
 ---
+
+```dataview
+TABLE
+FROM #MDT 
+```
+
  ¿Qué te permite tener la fuerza para estar dispuesto, capaz y deseoso de enfrentar nuevos desafíos en la vida?
 
 Bueno en este post mi intención no es responder esta pregunta, sin embargo, intentaré guiarte por una serie de eslabones que me permitieron identificar mis valores esenciales.
