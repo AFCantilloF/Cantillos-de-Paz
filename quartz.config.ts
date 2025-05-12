@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "cantillosdepaz.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
