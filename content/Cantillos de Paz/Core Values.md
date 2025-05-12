@@ -17,7 +17,7 @@ Bueno en este post mi intención no es responder esta pregunta, sin embargo, int
 
 Al identificar que valoro, se revelaron dentro de mí fuerzas desconocidas. Estas me han permitido caminar hacía una dirección  diferente, con mayor entusiasmo, esperanza e integridad. De igual forma hacer esta búsqueda interior, quizás, despierte algo oculto en tú interior aguardando que le encuentres.
 ## Gung Ho!
-Para empezar quiero mencionar brevemente el libro de Gung Ho!, ¡A la carga!<a id="footnote-1-ref" href="#footnote-1">[1]</a>. A grandes rasgos, trata a cerca de; como una Gerente logró salvar un fabrica a punto de quebrar por la baja productividad implementando una política laboral poco ortodoxa para la época 1970, la cual le compartió uno de sus empleados, quién ya la había implementado en un área de la compañía. La política laboral esta basada en tres principios fundamentales;
+Para empezar quiero mencionar brevemente el libro de Gung Ho!, ¡A la carga! <a id="footnote-1-ref" href="#footnote-1">[1]</a>. A grandes rasgos, trata a cerca de; como una Gerente logró salvar un fabrica a punto de quebrar por la baja productividad implementando una política laboral poco ortodoxa para la época 1970, la cual le compartió uno de sus empleados, quién ya la había implementado en un área de la compañía. La política laboral esta basada en tres principios fundamentales;
 
 - El espíritu de la ardilla, trabajo que vale la pena
 - El espíritu del castor, ejercer control sobre la meta
@@ -61,14 +61,12 @@ En el siguiente PDF se consolida la información anteriormente citada, con el pa
 
 ## Frases Gung Ho!
 
-
+{{.description }}
 ## Referencias
 <ol>
  	<li id="footnote-1">Blanchard, K., & Bowles, Sh. (1997). ¡A la carga! (Gung Ho!) Como aprovechar al máximo el potencial de las personas en su empresa. Grupo editorial Norma. <a title="return to text" href="#footnote-1-ref">↩</a></li>
  	
- 	<li id="footnote-2">Andreatta, B. Leadership Fundamentals. LinkedIn Learning. <a href="https://www.linkedin.com/learning/fundamentos-del-liderazgo-5" target="_blank" rel="noopener"> https://www.linkedin.com/learning/fundamentos-del-liderazgo-5</a>
-<a title="return to text" href="#footnote-2-ref">↩</a>
-
+ 	<li id="footnote-2">Andreatta, B. Leadership Fundamentals. LinkedIn Learning. <a href="https://www.linkedin.com/learning/fundamentos-del-liderazgo-5" target="_blank" rel="noopener"> https://www.linkedin.com/learning/fundamentos-del-liderazgo-5</a> <a title="return to text" href="#footnote-2-ref">↩</a></li>
 </li>
  	<li id="footnote-3">Van der Hoven, N. [NicolevanderHoeven]. (2022, Enero 12). How to Set Goals in Obsidian for 2022 [Video]. Youtube. <a href="http://www.youtube.com/watch?v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven" target="_blank" rel="noopener">http://www.youtube.com/watch?v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven</a>
 <a title="return to text" href="#footnote-3-ref">↩</a></li>
