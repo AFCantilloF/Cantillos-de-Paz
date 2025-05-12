@@ -4,8 +4,7 @@ longform:
   title: Cantillos de Paz
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Core Values
+  scenes: []
   sceneTemplate: templates/Blog.md
   ignoredFiles: []
 ---
