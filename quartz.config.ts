@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "cantillosdepaz.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -30,7 +30,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#dfeefd",
-          lightgray: "#e5e5e5",
+          lightgray: "#376efd",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#111564",
