@@ -30,7 +30,6 @@ Para esta ocasión me centrare solo en el primer eje, debido a que,  refleja la 
 
 Una de las formas para identificar si lo que hacemos nos parece importante, es reconociendo como lo que hacemos tiene una relación con nuestros valores, con el tipo de persona que queremos ser o llegar a ser.
 ## Fundamentos de Liderazgo
-
 Para mi es importante que cada individuo pueda primero identificar sus propios core values, sus valores esenciales, para conectarse con mayor facilidad con las personas o las compañías que reflejen esos mismos valores o similares, y por medio de estas conexiones ver como su aporte al mundo vale la pena.
 
 Para ilustrar un poco mejor esto, te comparto un pequeño ejercicio práctico, tomado de LinkedIn Lerarning <a id="footnote-2-ref" href="#footnote-2">[2]</a>,  con el cual podrás identificar tus valores esenciales. 
@@ -51,16 +50,18 @@ Tres preguntas sencillas, pero no tan fáciles de contestar, son las necesarias 
 ## ¿Listo para identificar tus valores esenciales?
 En el siguiente PDF se consolida la información anteriormente citada, con el paso a paso para encontrar y definir tus valores esenciales.
 
+
+
 >¿Te animas a descubrir partes internas de tu ser escondidas?
 
 ## Frases Gung Ho!
 
-{{.description }}
+
 ## Referencias
 <ol>
  	<li id="footnote-1">Blanchard, K., & Bowles, Sh. (1997). ¡A la carga! (Gung Ho!) Como aprovechar al máximo el potencial de las personas en su empresa. Grupo editorial Norma. <a title="return to text" href="#footnote-1-ref">↩</a></li>
  	
- 	<li id="footnote-2">Andreatta, B. Leadership Fundamentals. LinkedIn Learning. <a href="https://www.linkedin.com/learning/fundamentos-del-liderazgo-5" target="_blank" rel="noopener"> https://www.linkedin.com/learning/fundamentos-del-liderazgo-5</a> <a title="return to text" href="#footnote-2-ref">↩</a></li>
+ 	<li id="footnote-2">Andreatta, B. Leadership Fundamentals. LinkedIn Learning. https://www.linkedin.com/learning/fundamentos-del-liderazgo-5 <a title="return to text" href="#footnote-2-ref"></a><a title="return to text" href="#footnote-2-ref">↩</a></li>
  	
- 	<li id="footnote-3">Van der Hoven, N. [NicolevanderHoeven]. (2022, Enero 12). How to Set Goals in Obsidian for 2022 [Video]. Youtube. <a href="http://www.youtube.com/watch?v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven" target="_blank" rel="noopener">http://www.youtube.com/watch?v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven</a><a title="return to text" href="#footnote-3-ref">↩</a></li>
+ 	<li id="footnote-3">Van der Hoven, N. [NicolevanderHoeven]. (2022, Enero 12). How to Set Goals in Obsidian for 2022 [Video]. Youtube. http://www.youtube.com/watch?v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven <a title="return to text" href="#footnote-3-ref">↩</a></li>
 </ol>
